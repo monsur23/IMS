@@ -1,0 +1,4 @@
+A simple inventory management system developed using Python and a No-SQL databse MongoDB
+
+by - Monsur Ahmed Mazumder
+     XI Science
